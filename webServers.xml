@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="da0711ce-85fb-479f-9df9-19557d88d8c7" name="Poledev" url="http://poledev.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7209b54a-119c-464f-8276-17fd8e179f53" name="training.local" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
