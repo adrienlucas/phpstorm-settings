@@ -6,6 +6,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
